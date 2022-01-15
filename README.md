@@ -1,5 +1,4 @@
-# 小皮咖 Demo
-
+Prince
 **ps:我写了一本前端进阶小书，推荐给大家 [github 地址](https://github.com/zxpsuper/advanced_front_end)**
 
 ## 项目介绍
